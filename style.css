@@ -2,6 +2,12 @@ body {
   font-family: sans-serif;
   background-color: #F1FDFC;
 }
+
+main{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 header {
   text-align: center;
   padding-top: 48px;
